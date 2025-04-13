@@ -1,0 +1,4 @@
+﻿  Player.cpp
+D:\vs\Project1\Project1\Player.cpp(47,30): warning C4566: 유니버설 문자 이름 '\u26A0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\vs\Project1\Project1\Player.cpp(47,30): warning C4566: 유니버설 문자 이름 '\uFE0F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  Project1.vcxproj -> D:\vs\Project1\x64\Debug\Project1.exe
