@@ -17,23 +17,23 @@
 
 파일 구조
 
-Deck.h           # 카드 덱 관리 클래스 정의
+Deck.h           - 카드 덱 관리 클래스 정의
 
-Deck.cpp         # 카드 덱 관리 클래스 구현
+Deck.cpp         - 카드 덱 관리 클래스 구현
 
-HandEvaluator.h  # 핸드 평가 클래스 정의
+HandEvaluator.h  - 핸드 평가 클래스 정의
 
-HandEvaluator.cpp # 핸드 평가 클래스 구현
+HandEvaluator.cpp - 핸드 평가 클래스 구현
 
-Player.h         # 플레이어 클래스 정의
+Player.h         - 플레이어 클래스 정의
 
-Player.cpp       # 플레이어 클래스 구현
+Player.cpp       - 플레이어 클래스 구현
 
-PokerHandRank.h  # 족보 종류 정의
+PokerHandRank.h  - 족보 종류 정의
 
-PokerHandRank.cpp # 족보 종류 구현
+PokerHandRank.cpp - 족보 종류 구현
 
-main.cpp         # 게임 실행 코드
+main.cpp         - 게임 실행 코드
 
 클래스 설명
 
